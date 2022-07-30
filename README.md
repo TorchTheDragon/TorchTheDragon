@@ -5,7 +5,7 @@ I am currently working on (and kinda want help with) a FNF mod. It is a mod that
 
 My pronouns are as follows: He, Him
 
-How to reach me: Twitter and Discord (under certain circumstances)
+How to reach me: Twitter and Discord
 
 I am currently learning how to code basic stuff. I understand the overall concept of coding, I'm just learning how to do more. I strive to gain more knowledge in programming languages.
 
