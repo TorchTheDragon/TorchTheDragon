@@ -10,7 +10,7 @@ I am currently learning how to code basic stuff. I understand the overall concep
 Fun Fact: I play CoD way too much. And FNF I suppose.
 
 ### My Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=torchthedragon&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=torchthedragon&show_icons=true&theme=aura_dark&bg_color=00000000)
 
 <!--
 **TorchTheDragon/TorchTheDragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
