@@ -9,11 +9,8 @@ I am currently learning how to code basic stuff. I understand the overall concep
 
 Fun Fact: I play CoD way too much. And FNF I suppose.
 
-<details>
-    <summary>My Stats</summary>
+### My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=torchthedragon&show_icons=true&theme=radical)
-
-</details>
 
 <!--
 **TorchTheDragon/TorchTheDragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
